@@ -1,125 +1,145 @@
-# Hi there, I'm Sophia Eteng 👋
+<h1 align="center">Hi 👋, I'm Sophia Eteng</h1>
 
-## Business & Financial Data Analyst | Business Intelligence | Revenue Analytics | SQL • Excel • Power BI • Tableau
+<h3 align="center">
+Business & Financial Data Analyst | Business Intelligence | Revenue Analytics
+</h3>
 
-I leverage data to solve business problems, uncover financial insights, and support strategic decision-making. My background in Economics, taxation, and revenue administration enables me to combine analytical thinking with business acumen to deliver insights that improve operational efficiency, financial performance, and organizational growth.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Business+%26+Financial+Data+Analyst;Transforming+Data+into+Business+Insights;Power+BI+%7C+SQL+%7C+Excel+%7C+Tableau;Data-Driven+Decision+Making" />
+</p>
 
-I enjoy transforming complex datasets into clear, actionable reports and interactive dashboards that empower stakeholders to make informed decisions.
+<p align="center">
+<a href="mailto:sophiaeteng@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Open%20to-Data%20Analytics-success?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Location-Calabar,%20Nigeria-blue?style=for-the-badge">
+</p>
 
 ---
 
 ## 👩🏽‍💼 About Me
 
+I leverage data to solve business problems, uncover financial insights, and support strategic decision-making.
+
+With a background in Economics, taxation, and revenue administration, I combine analytical thinking with business knowledge to transform raw data into actionable insights that improve business performance.
+
 - 📊 Business & Financial Data Analyst
-- 💼 Inspector of Tax at Cross River Internal Revenue Service (CRIRS)
-- 🎓 B.Sc. Economics, University of Calabar
-- 🎓 M.Sc. Business Administration (In View), National Open University of Nigeria
-- 📍 Calabar, Nigeria
-- 📈 Passionate about Business Intelligence, Financial Analytics, Revenue Analytics, and Data Visualization
-- 🌱 Continuously expanding my expertise in SQL, Power BI, Tableau, Advanced Excel, and Business Analytics
-- 💡 Committed to turning data into measurable business value
+- 💼 Inspector of Tax, Cross River Internal Revenue Service (CRIRS)
+- 🎓 B.Sc. Economics
+- 🎓 M.Sc. Business Administration (In View)
+- 📈 Passionate about Business Intelligence and Financial Analytics
+- 🌱 Currently expanding my expertise in SQL, Power BI, Tableau, Advanced Excel and Python
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-**Data Analytics**
-- Microsoft Excel
-- SQL
-- Power BI
-- Tableau
+### Analytics & BI
 
-**Data Skills**
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- KPI Development
-- Business Reporting
-- Data Storytelling
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,python,git,github,vscode" />
 
-**Business & Finance**
-- Financial Analysis
-- Revenue Analysis
-- Business Intelligence
-- Business Performance Analysis
-- Tax Analysis
-- Compliance Monitoring
-- Operational Reporting
-- Decision Support
-- Process Improvement
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+</p>
 
 ---
 
-## 🎯 Core Competencies
+# 📊 Core Competencies
 
-- Business Analytics
-- Financial Analytics
-- Revenue Analytics
-- Business Intelligence
-- Dashboard Design
-- KPI Reporting
-- Performance Analysis
-- Data Visualization
-- Data Cleaning
-- Data Interpretation
-- SQL Queries
-- Advanced Microsoft Excel
-- Power BI
-- Tableau
-- Decision Support
-- Report Automation
-- Business Reporting
-- Trend Analysis
-- Root Cause Analysis
-- Problem Solving
-- Critical Thinking
+✔ Business Analytics
+
+✔ Financial Analytics
+
+✔ Revenue Analytics
+
+✔ Business Intelligence
+
+✔ Dashboard Development
+
+✔ KPI Reporting
+
+✔ Data Cleaning
+
+✔ Data Visualization
+
+✔ SQL
+
+✔ Microsoft Excel
+
+✔ Power BI
+
+✔ Tableau
+
+✔ Data Storytelling
+
+✔ Financial Analysis
+
+✔ Decision Support
+
+✔ Trend Analysis
+
+✔ Business Reporting
+
+✔ Process Improvement
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### Inspector of Tax
+## Inspector of Tax
 **Cross River Internal Revenue Service (CRIRS)**
 
-- Analyzed taxpayer records to identify compliance gaps and support revenue optimization initiatives.
-- Reviewed financial and tax records to ensure compliance with statutory regulations.
-- Conducted tax assessments across multiple tax categories, ensuring accurate computations and regulatory compliance.
-- Prepared compliance and revenue reports that supported operational monitoring and management decision-making.
-- Investigated discrepancies in tax records and collaborated with stakeholders to improve reporting accuracy.
-- Educated taxpayers on regulatory requirements, improving compliance and strengthening stakeholder relationships.
+- Analyzed taxpayer records to identify compliance gaps and support revenue optimization.
+- Reviewed financial records to ensure compliance with statutory tax regulations.
+- Conducted tax assessments across multiple tax categories, improving reporting accuracy.
+- Prepared revenue and compliance reports that supported management decision-making.
+- Investigated discrepancies in tax records and collaborated with stakeholders to resolve issues.
+- Educated taxpayers on compliance requirements, strengthening regulatory adherence.
 
 ---
 
-### Marketing Teacher
-**Secondary School Etoi | 2022**
+## Marketing Teacher
+**Secondary School Etoi**
 
-- Designed structured lesson plans and instructional materials that improved classroom engagement and knowledge delivery.
-- Evaluated student performance using assessments and performance data to identify learning gaps and improve instructional outcomes.
-- Maintained accurate academic records and generated performance reports to support informed educational decisions.
-- Simplified complex marketing concepts into practical lessons that enhanced student understanding and participation.
-- Collaborated with colleagues to improve curriculum delivery and overall learning effectiveness.
-- Demonstrated strong communication, presentation, organization, and analytical skills in managing classroom performance.
-
----
-
-## 📂 Featured Projects
-
-Projects currently under development include:
-
-- 📊 Executive Business Performance Dashboard
-- 💰 Financial Performance Analysis Dashboard
-- 📈 Revenue Analytics Dashboard
-- 🏦 Banking Data Analysis
-- 🛒 Retail Sales Performance Analysis
-- 📦 Supply Chain Performance Dashboard
-- 👥 Customer Segmentation Analysis
-- 📉 Business KPI Dashboard
-- 📊 Interactive Executive Reporting Dashboard
+- Designed engaging lesson plans and instructional materials that enhanced classroom participation.
+- Evaluated student performance using assessments and performance data to improve learning outcomes.
+- Maintained accurate academic records and generated performance reports.
+- Simplified complex marketing concepts into practical lessons that improved comprehension.
+- Collaborated with colleagues to improve curriculum delivery and instructional effectiveness.
+- Demonstrated strong analytical, presentation, communication, and organizational skills.
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Featured Projects
+
+🔹 Executive Business Dashboard
+
+🔹 Financial Performance Dashboard
+
+🔹 Revenue Analytics Dashboard
+
+🔹 Retail Sales Analysis
+
+🔹 Banking Data Analytics
+
+🔹 Customer Segmentation
+
+🔹 Supply Chain Analytics
+
+🔹 Executive KPI Dashboard
+
+---
+
+# 🌱 Currently Learning
 
 - Advanced SQL
 - Power BI
@@ -128,28 +148,52 @@ Projects currently under development include:
 - Financial Modeling
 - Data Warehousing
 - Advanced Excel
-- Business Intelligence Solutions
-
----
-
-## 💡 Areas of Interest
-
-- Business Analytics
-- Financial Analytics
 - Business Intelligence
-- Revenue Analytics
-- Corporate Finance
-- Strategy & Performance Management
-- Executive Dashboard Development
-- Data-Driven Decision Making
-- Process Optimization
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Statistics
 
-📧 **Email:** sophiaeteng@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
+
+</p>
 
 ---
 
-> **"Data tells a story. My goal is to uncover that story and transform it into business value."**
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10">
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="mailto:sophiaeteng@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+---
+
+> ### *"Without data, you're just another person with an opinion."* — **W. Edwards Deming**
