@@ -156,15 +156,15 @@ With a background in Economics, taxation, and revenue administration, I combine 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SophiaEteng&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SophiaEteng&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SophiaEteng&theme=tokyonight">
 
 </p>
 
@@ -174,7 +174,7 @@ With a background in Economics, taxation, and revenue administration, I combine 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10">
+<img src="https://github-profile-trophy.vercel.app/?username=SophiaEteng&theme=algolia&margin-w=10">
 
 </p>
 
