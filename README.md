@@ -13,7 +13,7 @@ Business & Financial Data Analyst | Business Intelligence | Revenue Analytics
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=SophiaEteng&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 
 <img src="https://img.shields.io/badge/Open%20to-Data%20Analytics-success?style=for-the-badge">
 
